@@ -1,0 +1,10 @@
+const Elementos = ["Nelson", 33, true, "19/07/1989"];
+const libroFavorito = {
+    titulo: "Ágilmente",
+    autor: "Estanislao Bachrach",
+    fecha: "12 septiembre 2012",
+    url: "https://www.amazon.es/Ágilmente-Aprendé-funciona-potenciar-creatividad-ebook/dp/B009A81O9E/ref=sr_1_2?adgrpid=58911869471&gclid=Cj0KCQjwmouZBhDSARIsALYcour_odJjAuNj415IlvHjlRoPP_ae216BtRBC-GyWutZ3RW10ajUjNcoaAnOEEALw_wcB&hvadid=275358697561&hvdev=c&hvlocphy=1005545&hvnetw=g&hvqmt=b&hvrand=4521577984111400980&hvtargid=kwd-300294596589&hydadcr=1983_1823589&keywords=agilmente+estanislao+bachrach&qid=1663264115&sr=8-2",
+}
+
+console.log(Elementos);
+console.log(libroFavorito);
